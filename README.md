@@ -40,7 +40,7 @@ Continuously monitor the performance of the system and gather feedback.
 Evaluate the impact of the project such as wait times, patient satisfaction, and doctor workload.
 By following this project logic, hospitals can leverage digital technology and AI integration to optimize doctor availability and allocation, ultimately improving patient care and operational efficiency.
 
-Small piece of code from our project for appointment booking
+## Small piece of code from our project for appointment booking
 ```
 <!DOCTYPE html>
 <html lang="en">
