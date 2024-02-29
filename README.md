@@ -3,7 +3,7 @@
 
 ## Goal Definition:
 The main objective of the website is to help with the current challenges and opportunities in doctor availability and allocation within the hospital such as, reducing wait times for patients, optimizing doctor schedules,helping with the patient records,etc.
-
+##mermaid
 ```mermaid
 graph TD;
     Data_Collection_and_Analysis-->AI_Algorithm_Development;
