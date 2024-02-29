@@ -1,18 +1,26 @@
-# Problem no- CBP16
+![Screenshot 2024-03-01 002104](https://github.com/shruti2056/Firewall_fighters9183/assets/152072097/7faa44cd-b9d2-4d77-82f4-3aefee92db93)# Problem no- CBP16
 ## Optimizing doctor availability and appointment in hospital through digital technology and AI integration.
 
 ## Goal Definition:
 The main objective of the website is to help with the current challenges and opportunities in doctor availability and allocation within the hospital such as, reducing wait times for patients, optimizing doctor schedules,helping with the patient records,etc.
 
-```mermaid
-graph TD;
-    Data_Collection_and_Analysis-->AI_Algorithm_Development;
-    AI_Algorithm_Development-->Digital_Technology_Integration;
-    Digital_Technology_Integration-->Real_Time_Monitoring_And_Optimization;
-    Real_Time_Monitoring_And_Optimization-->Integration_with_Existing_System;
-    Integration_with_Existing_System-->Training_and_Education;
-    Training_and_Education-->Evaluation_and_Iteration;
-```
+
+
+
+
+
+
+
+![Screenshot 2024-03-01 002104](https://github.com/shruti2056/Firewall_fighters9183/assets/152072097/aab45120-e221-4bfe-8046-dde04e66508c)
+
+
+
+
+
+
+
+
+
 ## Data Collection and Analysis:
 Gather relevant data on patient flow, doctor schedules, historical patient records.
 
