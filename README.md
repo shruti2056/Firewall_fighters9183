@@ -1,4 +1,4 @@
-![Screenshot 2024-03-01 002104](https://github.com/shruti2056/Firewall_fighters9183/assets/152072097/7faa44cd-b9d2-4d77-82f4-3aefee92db93)# Problem no- CBP16
+# Problem no- CBP16
 ## Optimizing doctor availability and appointment in hospital through digital technology and AI integration.
 
 ## Goal Definition:
